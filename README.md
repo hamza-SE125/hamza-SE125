@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Hamza
 
-<!--
-**hamza-SE125/hamza-SE125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering Student at UET Lahore  
+☁️ Aspiring Cloud Solutions Architect  
+💻 Currently learning C++, Git, Linux, and Cloud Computing
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Learning Cloud Computing fundamentals
+- 💻 Building C++ projects
+- 📚 Exploring Git & GitHub
+- 🎯 Goal: Become a Cloud Solutions Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C++
+- Git & GitHub
+- Linux
+- HTML (Basic)
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/muhammad-hamza-moeen-b68550416
+
+⭐ Thanks for visiting my profile!
