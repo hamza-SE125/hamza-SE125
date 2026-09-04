@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Hamza
 
-🎓 BS Software Engineering Student at UET Lahore 
+🎓 BS Software Engineering Student at UET Lahore|
 Aspiring Python Backend Developer||Futuree AI Engineer
 💻 Currently learning C++, Git, Linux,Python
 
