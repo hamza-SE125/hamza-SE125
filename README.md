@@ -1,6 +1,6 @@
 Hi I am M.Hamza
 🎓 BS Software Engineering Student at UET Lahore  
-🐍 Aspiring Python Backend Developer | Future AI Engineer  
+🐍 Aspiring Python Backend Developer | Aspiring AI Engineer  
 💻 Currently learning C++, Git, Linux & Python
 
 ## 🚀 About Me
