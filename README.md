@@ -5,7 +5,6 @@ Aspiring Python Backend Developer||Futuree AI Engineer
 💻 Currently learning C++, Git, Linux,Python
 
 ## 🚀 About Me
-- 🌱 Learning Cloud Computing fundamentals
 - 💻 Building C++ projects
 - 📚 Exploring Git & GitHub
 - 🎯 Goal: Become a Python Backend Developer and eventually an AI Engineer
