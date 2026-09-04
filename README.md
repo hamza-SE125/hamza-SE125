@@ -8,7 +8,7 @@
 - 🌱 Learning Cloud Computing fundamentals
 - 💻 Building C++ projects
 - 📚 Exploring Git & GitHub
-- 🎯 Goal: Become a Cloud Solutions Architect
+- 🎯 Goal: Become a Python Backend Developer and eventually an AI Engineer
 
 ## 🛠️ Tech Stack
 - C++
